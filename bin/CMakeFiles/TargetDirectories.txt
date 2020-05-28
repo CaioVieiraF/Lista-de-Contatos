@@ -1,3 +1,0 @@
-/home/doctor/Documents/Programming/C C++/C/contatos/bin/CMakeFiles/rebuild_cache.dir
-/home/doctor/Documents/Programming/C C++/C/contatos/bin/CMakeFiles/edit_cache.dir
-/home/doctor/Documents/Programming/C C++/C/contatos/bin/CMakeFiles/Contatos.dir
